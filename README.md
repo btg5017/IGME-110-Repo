@@ -16,4 +16,4 @@
 
 ---
 
-![I like cats](https://en.wikipedia.org/wiki/Cat#/media/File:Cat_August_2010-4.jpg)
+![I like cats](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
